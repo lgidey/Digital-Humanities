@@ -1,4 +1,5 @@
 print("helloworld")
 
-for i in range(10):
-    print(i)
+def count(n):
+    for i in range(n):
+        print(i)
